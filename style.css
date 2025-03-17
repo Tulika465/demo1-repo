@@ -34,7 +34,7 @@
 }
 
 .head-container {
-  background-image: url("../assets/Hero-bg.png");
+  background-image: url("Hero-bg.png");
   padding: 32px 0 32px;
   text-align: center;
 }
@@ -132,7 +132,7 @@
 }
 
 .support-container {
-  background-image: url("../assets/handshake.jpg");
+  background-image: url("handshake.jpg");
   /* background-size: 100%; */
   background-repeat: no-repeat;
   background-position: center;
